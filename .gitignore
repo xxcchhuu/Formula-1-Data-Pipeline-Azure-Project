@@ -1,0 +1,46 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Power BI temporary files
+*.pbix.autosave
+
+# Python build files
+build/
+dist/
+*.egg-info/
+
+# Azure Functions local settings (if you add Azure Functions later)
+local.settings.json
+
+# OS generated files
+.DS_Store
